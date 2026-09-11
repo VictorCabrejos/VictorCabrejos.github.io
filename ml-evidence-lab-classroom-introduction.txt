@@ -1,0 +1,7 @@
+A 5-minute teaching exercise: Same request. Different prediction.
+
+Before opening the explanation, predict the output for distance_km=4 and traffic_index=0.5. Reverse field order without changing the values. Explain why the result changes; design a test that rejects a constant answer as well as the ordering bug.
+
+Free exercise: https://victorcabrejos.github.io/ml-evidence-lab/?src=classroom_shared
+No login, email or installation. The browser uses JavaScript to illustrate a Python fixture, not a trained model. The page includes optional paid instructor material; no purchase is required for this activity.
+Source: Victor M. Cabrejos Jr., PhD. AI-assisted, fixture-checked synthetic teaching material. MIT reuse with notices. Suggested timing, not a classroom-tested outcome.
